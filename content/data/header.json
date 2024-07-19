@@ -68,6 +68,7 @@
             "labelStyle": "secondary",
             "type": "SubNav"
         }
+    ], // <-- Added comma here
 
     "secondaryLinks": [
         {
